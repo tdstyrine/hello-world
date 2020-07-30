@@ -36,8 +36,7 @@
 
 ##### Connect with me: 
 <a href="https://www.linkedin.com/in/tdstyrone/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
-
-
+<a href="mailto:tdstyrone@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" height="20px" width="20px"/></a>
 
 
 <br />
