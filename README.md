@@ -24,7 +24,7 @@
 <img align="left" alt="Pycharm" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/pycharm.png" />
 <img align="left" alt="MySQL" width="28px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/git.png" />
-<img align="left" alt="AWS" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/AWS.png" />
+<img align="left" alt="AWS" width="28px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/AWS.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/Bootstrap.png" />
 <img align="left" alt="Selenium" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/Selenium.png" />
 <img align="left" alt="Django" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/django.png" />
