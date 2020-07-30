@@ -6,4 +6,4 @@
 
 ##### Connect with me: 
 <a href="https://www.linkedin.com/in/tdstyrone/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
-[@tdstyrone](https://www.linkedin.com/in/tdstyrone/)
+(https://www.linkedin.com/in/tdstyrone/)
