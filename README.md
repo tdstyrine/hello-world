@@ -3,7 +3,7 @@
 <img src = "https://media.giphy.com/media/S5EOnENYbDCyrvvsjv/giphy.gif">
 
 ##### Languages: 
-<img align="left" alt="HTML5" width="26px" src="READMEImages/html.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/html.png" />
 <img align="left" alt="CSS3" width="26px" src="READMEImages/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="READMEImages/javascript.png" />
 <img align="left" alt="React" width="26px" src="READMEImages/react.png" />
