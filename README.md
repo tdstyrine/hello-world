@@ -1,6 +1,6 @@
 ### Hello World!
 
-<img src = "https://media.giphy.com/media/S5EOnENYbDCyrvvsjv/giphy.gif" width="1200px">
+<img src = "https://media.giphy.com/media/S5EOnENYbDCyrvvsjv/giphy.gif" width="700px">
 
 ##### Languages: 
 <img align="left" alt="Python" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/python.png" />
