@@ -3,16 +3,16 @@
 <img src = "https://media.giphy.com/media/S5EOnENYbDCyrvvsjv/giphy.gif">
 
 ##### Languages: 
-<img align="left" alt="HTML5" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/css.png" />
+<img align="left" alt="Python" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/python.png" />
+<img align="left" alt="Java" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/Java.png" />
+<img align="left" alt="C" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/C.png" />
+<img align="left" alt="C++" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/c++.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/nodejs.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/css.png" />
 <img align="left" alt="SQL" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/sql.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/python.png" />
-<img align="left" alt="C" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/C.png" />
-<img align="left" alt="C++" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/c++.png" />
-<img align="left" alt="Java" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/Java.png" />
 <img align="left" alt="Linux" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/linux.png" />
 
 <br />
@@ -24,9 +24,9 @@
 <img align="left" alt="Pycharm" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/pycharm.png" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/git.png" />
-<img align="left" alt="AWS" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/AWS.jpg" />
+<img align="left" alt="AWS" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/AWS.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/Bootstrap.png" />
-<img align="left" alt="Selenium" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/Selenium.jpg" />
+<img align="left" alt="Selenium" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/Selenium.png" />
 <img align="left" alt="Django" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/django.png" />
 
 <br />
