@@ -22,7 +22,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/visual-studio-code.png" />
 <img align="left" alt="IntelliJ" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/IntelliJ.png" />
 <img align="left" alt="Pycharm" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/pycharm.png" />
-<img align="left" alt="MySQL" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/mysql.png" />
+<img align="left" alt="MySQL" width="28px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/git.png" />
 <img align="left" alt="AWS" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/AWS.png" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/Bootstrap.png" />
