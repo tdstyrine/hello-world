@@ -29,8 +29,10 @@
 <img align="left" alt="Selenium" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/Selenium.png" />
 <img align="left" alt="Django" width="26px" src="https://github.com/tdstyrone/tdstyrone/blob/master/READMEImages/django.png" />
 
+
 <br />
 <br />
+
 
 
 ##### Connect with me: 
