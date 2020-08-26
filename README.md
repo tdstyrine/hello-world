@@ -42,4 +42,4 @@
 <br />
 <br />
 
-##### Made by [Tyrone Smith](https://github.com/tdstyrone)
+##### *Made by Tyrone Smith*
