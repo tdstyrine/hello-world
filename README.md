@@ -33,6 +33,7 @@
 <br />
 <br />
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tdstyrone&layout=compact)
 
 ##### Connect with me: 
@@ -41,6 +42,4 @@
 
 
 <br />
-<br />
-
 ##### *Made by Tyrone Smith*
